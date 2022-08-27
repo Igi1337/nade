@@ -169260,22 +169260,6 @@
       "viewangles": [-24.84916, 119.728554]
     },
     {
-      "name": ["roof", "roof"],
-      "weapon": "weapon_hegrenade",
-      "position": [-657.36010742188, 709.57098388672, 97.03125],
-      "viewangles": [-41.2604523, -41.00058],
-      "grenade": {
-        "run": 3
-      }
-    }
-  ]
-}8, 11873.03125],
-      "viewangles": [-5.9402093887329, 162.50534057617],
-      "grenade": {
-        "run": 1
-      }
-    },
-    {
       "name": ["Unnamed", "Bags"],
       "weapon": "weapon_molotov",
       "position": [-1399.3564453125, 526.76507568359, 11873.53125],
